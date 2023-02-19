@@ -1,0 +1,17 @@
+C:\Alex\Diverse\Coding\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Alex\Diverse\Coding\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Alex\Diverse\Coding\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Alex\Diverse\Coding\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Alex\Diverse\Coding\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Alex\Diverse\Coding\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Alex\Diverse\Coding\ConsoleApp1\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Alex\Diverse\Coding\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.ResolveComReference.cache
+C:\Alex\Diverse\Coding\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alex\Diverse\Coding\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Alex\Diverse\Coding\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Alex\Diverse\Coding\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Alex\Diverse\Coding\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Alex\Diverse\Coding\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\Alex\Diverse\Coding\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Alex\Diverse\Coding\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\Alex\Diverse\Coding\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
